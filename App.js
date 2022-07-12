@@ -8,7 +8,7 @@ import { createDrawerNavigator } from '@react-navigation/drawer';
 function Dashboard() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Article Screen</Text>
+      <Text>Dashboard</Text>
     </View>
   );
 }
